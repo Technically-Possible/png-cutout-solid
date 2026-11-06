@@ -1,0 +1,18 @@
+schema_version = "1.0.0"
+
+id = "png_cutout_solid"
+version = "1.0.0"
+name = "PNG Cutout Solid"
+tagline = "Turn a PNG into a solid 3D shape cut to the image's outline"
+maintainer = "Jennifer Freeman"
+type = "add-on"
+
+tags = ["Import-Export", "Mesh"]
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+copyright = ["2026 Jennifer Freeman"]
+
+[permissions]
+files = "Import images from disk"

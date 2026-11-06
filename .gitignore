@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+dist/
+*.blend1
+.vscode/
+.idea/
